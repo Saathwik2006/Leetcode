@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Saathwik2006/Leetcode/tree/master/0001-two-sum) |
+| [2778-sum-of-squares-of-special-elements](https://github.com/Saathwik2006/Leetcode/tree/master/2778-sum-of-squares-of-special-elements) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/Saathwik2006/Leetcode/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Hash Table
 |  |
@@ -30,4 +31,8 @@
 |  |
 | ------- |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/Saathwik2006/Leetcode/tree/master/3727-maximum-alternating-sum-of-squares) |
+## Enumeration
+|  |
+| ------- |
+| [2778-sum-of-squares-of-special-elements](https://github.com/Saathwik2006/Leetcode/tree/master/2778-sum-of-squares-of-special-elements) |
 <!---LeetCode Topics End-->
